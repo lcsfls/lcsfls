@@ -6,7 +6,7 @@ self-hosted, privacy-first software, including private AI for law firms.
 **What I care about**
 - Self-hosted over SaaS: your data stays on your servers
 - GDPR by design, not as an afterthought
-- Small, boring, maintainable software
+- Easy to use, maintainable software
 
 **Open source**
 - 🛡️ [GarnetOps](https://github.com/lcsfls/garnet-ops): self-hosted security platform for SecOps teams and sysadmins. Dependency and container scanning, quality gates, host monitoring and an XDR view via Wazuh, with AI triage on your own model. Nothing leaves your network. *(early development)*
