@@ -16,4 +16,4 @@ self-hosted, privacy-first software, including private AI for law firms.
 **Working with**
 Linux · Docker · Proxmox · Microsoft 365 · Go · Caddy
 
-📫 Reach me via [your website](https://example.com)
+📫 Reach me via [your website](https://it-flores.de)
